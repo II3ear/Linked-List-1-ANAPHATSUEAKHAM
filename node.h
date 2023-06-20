@@ -32,7 +32,6 @@ node::~node(){
 nodePtr node::get_next(){
   return next;
 }
-
 void node::set_next(nodePtr x){
   next=x;
 }

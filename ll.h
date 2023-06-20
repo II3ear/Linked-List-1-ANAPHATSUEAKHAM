@@ -42,4 +42,6 @@ void LL::insert_node(string n, int i){
     t->set_next(new_node);
   }
   size++;
+  //aasdsd
+  
 }

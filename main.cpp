@@ -11,4 +11,4 @@ int main(int argc, char **argv){
       }
 	 	l.print_all();
 
-}//automatically call destructor
+}//automatically call destructor asdsad
